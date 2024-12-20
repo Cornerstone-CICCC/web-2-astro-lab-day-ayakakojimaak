@@ -1,7 +1,7 @@
 ---
-title: Project 1
+title: Blog 1
 author: Ayaka Kojima
-id: project-1
+id: blog-1
 ---
 
 # An h1 header
