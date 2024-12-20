@@ -9,6 +9,7 @@ body {
 
 main {
   padding: 20px;
+  min-height: 100vh;
   max-width: 800px;
   margin: 20px auto;
   background-color: #fff;
